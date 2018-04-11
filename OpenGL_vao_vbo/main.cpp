@@ -4,7 +4,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
-
+//thank you natume sama
 #define GLFW_INCLUDE_GLU
 #define GLM_ENABLE_EXPERIMENTAL
 #include <GL/glew.h>
